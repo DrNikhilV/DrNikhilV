@@ -69,14 +69,6 @@
  <p align='center'>
  <img src="https://github.com/vaishnavi-3969/DrNikhilV/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
  <p>
-<p align ='center'>
-<p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
- </p>
-<br>
-  
- <p align = 'center'?
-  <a href = "https://peerlist.io/vaishnavi" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
- </p>
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
