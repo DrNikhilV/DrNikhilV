@@ -64,11 +64,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=DrNikhilV&icon=6&color=1)](https://visitcount.itsvg.in)
 
-
-
- <p align='center'>
- <img src="https://github.com/vaishnavi-3969/DrNikhilV/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
- <p>
+[![Github](https://img.shields.io/github/followers/DrNikhilV?label=Follow&style=social)](https://github.com/DrNikhilV)
+![](./profile-3d-contrib/profile-green-animate.svg)
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
