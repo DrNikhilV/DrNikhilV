@@ -26,6 +26,7 @@
 <div align="center">
  
 ![](https://github-profile-trophy.vercel.app/?username=DrNikhilV&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
+<p>&nbsp;</p>
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=DrNikhilV&theme=merko"/>
 
 <p>&nbsp;</p>
