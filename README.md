@@ -39,11 +39,8 @@
     <img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrNikhilV&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" />
   </a>
 </div>
-
  <p>&nbsp;</p>
-</div>
 
-</div>
 <!--Github Data -->
 <div align="center">
  
