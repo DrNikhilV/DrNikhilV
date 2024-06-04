@@ -26,9 +26,9 @@
 ![repo size](https://img.shields.io/github/repo-size/vaishnavi-3969/vaishnavi-3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/vaishnavi-3969/vaishnavi-3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/DrNikhilV/DrNikhilV?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
  <br>
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969)
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDrNikhilV)
 [![Github](https://img.shields.io/github/followers/DrNikhilV?label=Follow&style=social)](https://github.com/DrNikhilV)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
