@@ -20,8 +20,6 @@
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-3969&theme=merko"/>
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=vaishnavi3969'><img src = "https://stats.quine.sh/vaishnavi3969/dependencies?theme=dark"/>
-</a>
 
 <!--Github Data -->
 <div align="center">
