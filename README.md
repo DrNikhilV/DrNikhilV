@@ -20,12 +20,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=DrNikhilV&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=DrNikhilV&theme=merko"/>
 
-</div>
-
- <a href="https://github.com/DrNikhilV/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrNikhilV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/DrNikhilV/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrNikhilV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
  
-  <a href="https://github.com/DrNikhilV/github-readme-stats"><img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrNikhilV&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+ <a href="https://github.com/DrNikhilV/github-readme-stats"><img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrNikhilV&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
+</div>
 <!--Github Data -->
 <div align="center">
  
