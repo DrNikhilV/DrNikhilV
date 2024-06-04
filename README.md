@@ -28,7 +28,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/DrNikhilV/DrNikhilV?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/DrNikhilV/DrNikhilV?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
  <br>
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDrNikhilV&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDrNikhilV)
 [![Github](https://img.shields.io/github/followers/DrNikhilV?label=Follow&style=social)](https://github.com/DrNikhilV)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
