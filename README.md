@@ -31,6 +31,9 @@
 [![Github](https://img.shields.io/github/followers/DrNikhilV?label=Follow&style=social)](https://github.com/DrNikhilV)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
----
+
+<div align="center">
+<p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=DrNikhilV&icon=6&color=1)](https://visitcount.itsvg.in)
