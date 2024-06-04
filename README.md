@@ -30,11 +30,15 @@
 
 <p>&nbsp;</p>
 
-<a href="https://github.com/DrNikhilV/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrNikhilV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/DrNikhilV/github-readme-stats">
+    <img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrNikhilV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" />
+  </a>
+  <a href="https://github.com/DrNikhilV/github-readme-stats">
+    <img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrNikhilV&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" />
+  </a>
+</div>
 
- <p>&nbsp;</p>
- 
- <a href="https://github.com/DrNikhilV/github-readme-stats"><img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrNikhilV&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
  <p>&nbsp;</p>
 </div>
 
