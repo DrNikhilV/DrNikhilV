@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 My Deep Learning Projects: https://github.com/DrNikhilV/Deep-Learning-Projects<br><br>
 🌱 I’m currently learning: Data Science, Artificial Intelligence, C++<br><br>
-💬 Ask me about: Machine Learning, Designing<br><br>
+💬 Ask me about: Machine Learning, Deep Learning, Designing<br><br>
 📫 How to reach me: nikhilvenkataraj@gmail.com
 
 
