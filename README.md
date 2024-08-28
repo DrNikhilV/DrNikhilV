@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [-portfolio-link-](-portfolio-link-)
 
-- 📝 I write articles on [https://medium.com/@ancientfrosting421](https://medium.com/@ancientfrosting421)
+- 📝 I write articles on [Ancientfrosting421](https://medium.com/@ancientfrosting421)
 
 - 💬 Ask me about **AI-ML**
 
 - 📫 How to reach me **nikhilvenkataraj@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf](https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf)
+- 📄 Know about my experiences [My_Resume](https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf)
 
 - ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" by Tyrion Lannister**
 
