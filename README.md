@@ -30,9 +30,9 @@
 <a href="https://www.leetcode.com/nikhil2004venkataraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil2004venkataraj" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<p align="left">
 <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
-<br>
+<br> <p align="center">
 <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
 </p>
 
