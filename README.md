@@ -1,4 +1,4 @@
-Her primary weakness is the instability of her powers, which can be influenced by her emotional state, and chaos magic can leave her vulnerable to mental manipulation and fatigue, and overusing her abilities can cause physical and psychological strain.<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drnikhilv" alt="drnikhilv" /></a> </p>
