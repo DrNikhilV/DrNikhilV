@@ -20,7 +20,7 @@
 - ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" by Tyrion Lannister**
 
 <h2><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h2>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-venkataraj-b97388258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-venkataraj-b97388258/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25057962/nikhil-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25057962/nikhil-v" height="30" width="40" /></a>
 <a href="https://instagram.com/its_nikhilv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_nikhilv" height="30" width="40" /></a>
