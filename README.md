@@ -11,13 +11,13 @@
 
 - 📝 I write articles on [https://medium.com/@ancientfrosting421](https://medium.com/@ancientfrosting421)
 
-- 💬 Ask me about **Machine and Deep Learning**
+- 💬 Ask me about **AI-ML**
 
 - 📫 How to reach me **nikhilvenkataraj@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf](https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf)
 
-- ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" Tyrion Lannister**
+- ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" by Tyrion Lannister**
 
 <h2><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h2>
 <p align="left">
