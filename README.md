@@ -1,70 +1,56 @@
-# 💫 About Me:
-🔭 My Deep Learning Projects: https://github.com/DrNikhilV/Deep-Learning-Projects<br><br>
-🌱 I’m currently learning: Data Science, Artificial Intelligence, C++<br><br>
-💬 Ask me about: Machine Learning, Deep Learning, Designing<br><br>
-📫 How to reach me: nikhilvenkataraj@gmail.com
+Her primary weakness is the instability of her powers, which can be influenced by her emotional state, and chaos magic can leave her vulnerable to mental manipulation and fatigue, and overusing her abilities can cause physical and psychological strain.<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">A passionate AI Enthusiast from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drnikhilv" alt="drnikhilv" /></a> </p>
 
-<!--Connect with me -->
+- 🔭 I’m currently working on **Deep Learning Approaches to Object Detection for Enhanced Autonomous Vehicle Navigation on Indian Roads**
 
-<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
-<div align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-venkataraj-b97388258/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ancientfrosting421) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ancientfrosting421/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25057962/nikhil-v?tab=profile)
-</div>
- 
+- 🌱 I’m currently learning **DSA, Web Development**
+
+- 👯 I’m looking to collaborate on **AI Based Chatbots**
+
+- 👨‍💻 All of my projects are available at [-portfolio-link-](-portfolio-link-)
+
+- 📝 I write articles on [https://medium.com/@ancientfrosting421](https://medium.com/@ancientfrosting421)
+
+- 💬 Ask me about **Machine and Deep Learning**
+
+- 📫 How to reach me **nikhilvenkataraj@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf](https://github.com/DrNikhilV/DrNikhilV/blob/main/My_Resume.pdf)
+
+- ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" Tyrion Lannister**
+
+<h2><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h2>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-venkataraj-b97388258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-venkataraj-b97388258/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25057962/nikhil-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25057962/nikhil-v" height="30" width="40" /></a>
+<a href="https://instagram.com/its_nikhilv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_nikhilv" height="30" width="40" /></a>
+<a href="https://medium.com/@ancientfrosting421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ancientfrosting421" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nikhil_vcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhil_vcoder" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhil2004_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhil2004_v" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nikhil2004venkataraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil2004venkataraj" height="30" width="40" /></a>
+</p>
+
 <p align="center">
 <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
 <br>
- <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
- </p>
- 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
+</p>
 
-## 🏆 GitHub Trophies
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drnikhilv&show_icons=true&locale=en&layout=compact" alt="drnikhilv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drnikhilv&show_icons=true&locale=en" alt="drnikhilv" /></p>
 <div align="center">
- 
-![](https://github-profile-trophy.vercel.app/?username=DrNikhilV&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
-<p>&nbsp;</p>
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=DrNikhilV&theme=merko"/>
 
-<p>&nbsp;</p>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
-  <div>
-    <a href="https://github.com/DrNikhilV/github-readme-stats">
-      <img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrNikhilV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/DrNikhilV/github-readme-stats">
-      <img alt="Nikhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrNikhilV&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" />
-    </a>
-  </div>
-</div>
-
- <p>&nbsp;</p>
-
-<!--Github Data -->
-<div align="center">
- 
-![repo size](https://img.shields.io/github/repo-size/DrNikhilV/DrNikhilV?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/DrNikhilV/DrNikhilV?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/DrNikhilV/DrNikhilV?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/DrNikhilV/DrNikhilV?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
- <br>
-[![Github](https://img.shields.io/github/followers/DrNikhilV?label=Follow&style=social)](https://github.com/DrNikhilV)
-![](./profile-3d-contrib/profile-green-animate.svg)
-</div>
-
-<div align="center">
 <p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=DrNikhilV&icon=6&color=1)](https://visitcount.itsvg.in)
 
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
