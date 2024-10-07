@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [-portfolio-link-](-portfolio-link-)
 
-- 📝 I write articles on [Ancientfrosting421](https://medium.com/@ancientfrosting421)
-
 - 💬 Ask me about **AI-ML**
 
 - 📫 How to reach me **nikhilvenkataraj@gmail.com**
