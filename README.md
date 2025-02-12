@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Deep Learning Approaches to Object Detection for Enhanced Autonomous Vehicle Navigation on Indian Roads**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
 - 🌱 I’m currently learning **DSA, Web Development**
 
