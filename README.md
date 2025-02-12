@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nikhilvenkataraj@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://github.com/DrNikhilV/DrNikhilV/blob/main/Resume_01.pdf)
+- 📄 Know about my experiences [My_Resume](https://github.com/DrNikhilV/DrNikhilV/blob/main/Resume.pdf)
 
 - ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" by Tyrion Lannister**
 
