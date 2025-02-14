@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI Based Chatbots**
 
-- 👨‍💻 All of my projects are available at [-portfolio-link-](-portfolio-link-)
+- 💻 Explore my work [My Portfolio](https://ancientfrosting421.wixsite.com/nikhil)
 
 - 💬 Ask me about **AI-ML**
 
