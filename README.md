@@ -17,15 +17,29 @@
 
 - ⚡ Favourite Quote **"A Mind Needs Books Like A Sword Needs A Whetstone" by Tyrion Lannister**
 
-<h2><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h2>
+<h2 align="center">🚀 Connect with Me</h2>
+
 <p align="center">
-<a href="https://linkedin.com/in/nikhil-venkataraj-b97388258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-venkataraj-b97388258/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25057962/nikhil-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25057962/nikhil-v" height="30" width="40" /></a>
-<a href="https://medium.com/@ancientfrosting421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ancientfrosting421" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nikhil_vcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhil_vcoder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikhil2004_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhil2004_v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhil2004venkataraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil2004venkataraj" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nikhil-venkataraj-b97388258/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/25057962/nikhil-v">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stackoverflow" />
+  </a>
+  <a href="https://medium.com/@ancientfrosting421">
+    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium" />
+  </a>
+  <a href="https://www.codechef.com/users/nikhil_vcoder">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" />
+  </a>
+  <a href="https://www.hackerrank.com/nikhil2004_v">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank" />
+  </a>
+  <a href="https://www.leetcode.com/nikhil2004venkataraj">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode" />
+  </a>
 </p>
+
 
 <p align="left">
 <h2><img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">Quote of the Day</h2>
