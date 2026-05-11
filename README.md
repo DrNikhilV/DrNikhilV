@@ -19,7 +19,6 @@
 
 ## About Me
 
-```python
 class Nikhil:
 
     role = "AI Enthusiast"
@@ -45,8 +44,6 @@ class Nikhil:
         "Deep Learning"
     ]
 ```
-
----
 
 ## Tech Stack
 
