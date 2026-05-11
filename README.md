@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Nikhil V</h1>
 
 <p align="center">
@@ -12,11 +11,7 @@
   <a href="https://medium.com/@ancientfrosting421">Medium</a>
 </p>
 
----
-
 ## About Me
-
-```python
 class Nikhil:
     interests = [
         "Artificial Intelligence",
@@ -32,7 +27,6 @@ class Nikhil:
         "ML Projects",
         "Open Source"
     ]
-````
 
 * Currently building deep learning projects
 * Exploring intelligent AI systems and chatbots
