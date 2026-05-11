@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-drnikhilv.github.io-black?style=flat-square)](https://drnikhilv.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-venkataraj-b97388258/)
-[![Email](https://img.shields.io/badge/email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilvenkataraj@gmail.com)
 
 </div>
 
@@ -12,7 +11,7 @@
 
 **B.Tech in Artificial Intelligence** @ Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; Intern @ Psiog Digital
 
-I build intelligent systems at the intersection of research and real-world impact — medical imaging, NLP, and full-stack AI apps. Previously mentored the AWS Cloud Club at Amrita.
+I build intelligent systems at the intersection of research and real-world impact — medical imaging, NLP, and full-stack AI apps.
 
 ---
 
@@ -29,14 +28,6 @@ I build intelligent systems at the intersection of research and real-world impac
 ### Stack
 
 `Python` `C++` `JavaScript` `SQL` · `TensorFlow` `scikit-learn` `OpenCV` `Pandas` · `React` `Node.js` `MongoDB` · `AWS` `Figma`
-
----
-
-### Achievements
-
-- 🥉 3rd — Autonomous Drone Development Challenge 2024 (SAEINDIA), Team DART
-- 📜 Certified in Generative AI with LLMs · Neural Networks & Deep Learning (AWS / DeepLearning.AI)
-- 🏆 Academic Rankholder · Multiple hackathon & event wins
 
 ---
 
