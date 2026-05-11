@@ -1,7 +1,7 @@
 <h1 align="center">Nikhil V</h1>
 
 <p align="center">
-  AI Enthusiast • Deep Learning Explorer • Builder
+  <strong>AI Enthusiast • Deep Learning Explorer • Developer</strong>
 </p>
 
 <p align="center">
@@ -11,36 +11,47 @@
   <a href="https://medium.com/@ancientfrosting421">Medium</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drnikhilv&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## About Me
+
+```python
 class Nikhil:
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
+
+    role = "AI Enthusiast"
+
+    currently_working_on = [
+        "Deep Learning Projects",
+        "AI Applications"
+    ]
+
+    currently_learning = [
+        "DSA",
         "Web Development"
     ]
 
-    currently_learning = ["DSA", "Full Stack Development"]
-
     looking_to_collaborate_on = [
         "AI Chatbots",
-        "ML Projects",
-        "Open Source"
+        "Machine Learning Projects"
     ]
 
-* Currently building deep learning projects
-* Exploring intelligent AI systems and chatbots
-* Passionate about problem solving and clean UI/UX
-* Open to collaborations and innovative ideas
+    ask_me_about = [
+        "AI",
+        "Machine Learning",
+        "Deep Learning"
+    ]
+```
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,linux,tensorflow,opencv,figma,aws,unity&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,linux,tensorflow,opencv,aws,figma,unity&theme=dark" />
 </p>
 
 ---
@@ -78,11 +89,13 @@ class Nikhil:
 ## GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=drnikhilv&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=drnikhilv&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnikhilv&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnikhilv&layout=compact&theme=transparent&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drnikhilv&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -90,15 +103,18 @@ class Nikhil:
 ## Quote
 
 <p align="center">
-
-> “A mind needs books like a sword needs a whetstone.”
+  
+> "A mind needs books like a sword needs a whetstone."  
 > — Tyrion Lannister
 
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0f0f,100:2b2b2b&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111111,100:2e2e2e&section=footer"/>
 </p>
-```
