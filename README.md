@@ -19,31 +19,26 @@
 
 ## About Me
 
-class Nikhil:
+<div align="center">
 
-    role = "AI Enthusiast"
+<table>
+<tr>
+<td>
 
-    currently_working_on = [
-        "Deep Learning Projects",
-        "AI Applications"
-    ]
+Name: Nikhil V  
+Role: AI Enthusiast  
+Currently Working On: Deep Learning Projects  
+Currently Learning: DSA, Web Development  
+Collaborating On: AI Chatbots & ML Projects  
+Ask Me About: AI, Machine Learning, Deep Learning
 
-    currently_learning = [
-        "DSA",
-        "Web Development"
-    ]
+</td>
+</tr>
+</table>
 
-    looking_to_collaborate_on = [
-        "AI Chatbots",
-        "Machine Learning Projects"
-    ]
+</div>
 
-    ask_me_about = [
-        "AI",
-        "Machine Learning",
-        "Deep Learning"
-    ]
-```
+---
 
 ## Tech Stack
 
@@ -101,8 +96,8 @@ class Nikhil:
 
 <p align="center">
   
-> "A mind needs books like a sword needs a whetstone."  
-> — Tyrion Lannister
+<i>"A mind needs books like a sword needs a whetstone."</i>  
+— Tyrion Lannister
 
 </p>
 
